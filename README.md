@@ -17,7 +17,7 @@
 
 ### For Test
 
-1. Download the pretrained model[111](123) and modify the path in /experiments/config.py
+1. Download the [pretrained model](https://drive.google.com/file/d/1MMWoexMgtXH1aqzOR734DE6p3JQ3pkQy/view?usp=sharing) and modify the path in /experiments/config.py
 
 2. RUN /experiments/CSR/test.py
 
