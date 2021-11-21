@@ -71,7 +71,7 @@ class Configuration():
 		self.TEST_FLIP = True
 
 		### Model Path for test 
-		self.TEST_CKPT = os.path.join(self.ROOT_DIR,'model/BSANet_res101_atrous_Unified_epoch40_all.pth')
+		self.TEST_CKPT = os.path.join(self.ROOT_DIR,'your_download_ckpt.pth')
 
 		### If using single GPU, modify the cuda, set parameters .to(device) and set net = nn.DataParallel(net, device_ids=[0])
 		self.TEST_GPUS = 2

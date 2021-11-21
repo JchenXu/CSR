@@ -59,7 +59,9 @@ The code is based on the below project:
 ##### Yifan Zhao, Jia Li, Yu Zhang, and Yonghong Tian. Multi-class Part Parsing with Joint Boundary-Semantic Awareness in ICCV 2019.
 
 
+
 ### Citation
+```
 @inproceedings{tan2021confident,
   title={Confident Semantic Ranking Loss for Part Parsing},
   author={Tan, Xin and Xu, Jiachen and Ye, Zhou and Hao, Jinkun and Ma, Lizhuang},
@@ -68,3 +70,4 @@ The code is based on the below project:
   year={2021},
   organization={IEEE}
 }
+```
