@@ -4,6 +4,8 @@
 
 1. Download PASCAL-Part dataset [https://cs.stanford.edu/~roozbeh/pascal-parts/pascal-parts.html]
 
+2. **[Update]** Additional PASCAL-Part-Saliency dataset is available [https://dmcv.sjtu.edu.cn/data/project/pascal-part-sal.tar.gz]
+
 2. Download the multi-class annotations from [http://cvteam.net/projects/2019/multiclass-part.html]
 
 3. Modify the configurations in /experiments/CSR/config.py. (The initial performance is about 59.45, then the reported performance can be achieved by fine-tuning.)
@@ -21,7 +23,9 @@
 
 2. RUN /experiments/CSR/test.py
 
-3. (Additionally) If customize data, you need to generate a filelist following the VOC format and modify the dataset path.
+3. **[Update]** The color map for visualization is available [here](https://dmcv.sjtu.edu.cn/data/project/colormap.pkl)
+
+4. (Additionally) If customize data, you need to generate a filelist following the VOC format and modify the dataset path.
 
 ### For Training 
 
