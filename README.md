@@ -4,7 +4,7 @@
 
 1. Download PASCAL-Part dataset [https://cs.stanford.edu/~roozbeh/pascal-parts/pascal-parts.html]
 
-2. **[Update]** Additional PASCAL-Part-Saliency dataset is available [https://dmcv.sjtu.edu.cn/data/project/pascal-part-sal.tar.gz]
+2. **[Update]** Additional PASCAL-Part-Saliency dataset is available at [https://dmcv.sjtu.edu.cn/data/project/pascal-part-sal.tar.gz] and Part Object Mask is avalable at [https://dmcv.sjtu.edu.cn/data/project/Part_obj.tar.gz]
 
 2. Download the multi-class annotations from [http://cvteam.net/projects/2019/multiclass-part.html]
 
